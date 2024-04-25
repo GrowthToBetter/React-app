@@ -1,0 +1,14 @@
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-indent: 120px;
+}
+p.p1{
+    text-align: end;
+}
+body{
+    background-image: url(../HTML/picture/1.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    
+}

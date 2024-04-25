@@ -1,0 +1,20 @@
+a{
+    text-decoration: none;
+    color: #34d356;
+    font-size: x-large;
+    text-align: center;
+    font-weight: lighter;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+a:hover {
+    color: black;
+}
+h1{
+    font-size: 70px;
+    font-weight: lighter;
+    font-variant: small-caps;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    font-style: italic;
+}
