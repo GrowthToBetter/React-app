@@ -1,0 +1,8 @@
+.navbar ul li {
+    display: inline-block;
+    text-align: center;
+}
+h1{
+    display: inline-block;
+    margin: none;
+}

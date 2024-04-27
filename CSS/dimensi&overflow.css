@@ -1,0 +1,16 @@
+.header{
+    width: 50%;
+    height: 200px;
+    margin: 50px auto;
+}
+.header p{
+    overflow: auto;
+}
+.container{
+    background-color: aqua;
+}
+.text-center ul li{
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+}
