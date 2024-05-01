@@ -1,0 +1,26 @@
+.contain{
+    width: 500px;
+    height: 250px;
+    background-color: coral;
+    margin: 40px auto;
+    overflow: auto;
+    padding: 0px 100px 0px 100px;
+}
+.contain p{
+    word-spacing: 0px;
+    letter-spacing: 1px;
+    text-align: right;
+    text-indent: 10px;
+}
+.contain .title{
+    margin: 10px auto;
+    text-align: center;
+    background-color: azure;
+}
+.contain p{
+    padding: 10px;
+    border: 5px solid white;
+}
+div{
+    box-sizing: border-box;
+}
