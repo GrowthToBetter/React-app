@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+}
+.title ul li{
+    display: inline-block;
+}
+.title{
+    margin: 5px auto;
+    text-align: center;
+}
+.preview img{
+    background-size: cover;
+    width: inherit;
+    padding: inherit;
+    margin: inherit;
+}
+.preview{
+    width: 100%;
+    margin: 20px auto;
+}
+.article #p1,#p2{
+    margin: 10px 5px;
+    text-align: center;
+}
+.article h1{
+    margin: 0 auto;
+    text-align: center;
+}
+.article #inform{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.copyright{
+    background-color: black;
+}
+.copyright p{
+    color: white;
+    border: 6px double white;
+    box-sizing: border-box;
+    height: inherit;
+    text-align: center;
+}
