@@ -6,9 +6,12 @@ function Angkot(angkot, sopir, biaya, track){
     this.biaya=biaya;
     this.track=track;
     this.tambahPenumpang=function(id){
-        if(this.angkot.find(function(x){return x==id})){
+        if(this.angkot.find=(x)=>{return x==id}){
             return '';
         }
+        // else if(this.angkot.find(function(x){return x==id})){
+        //     return '';
+        // }
         for(var i=0;i<=this.angkot.length;i++){
             switch (angkot[i]) {
                 case undefined:
