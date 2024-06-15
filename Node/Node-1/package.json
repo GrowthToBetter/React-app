@@ -1,0 +1,15 @@
+{
+  "name": "node-1",
+  "version": "1.0.0",
+  "description": "first app to study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean Richnerd Rantabaratrahjaga",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "validator": "^13.5.2"
+  }
+}
